@@ -1,0 +1,10 @@
+body {max-width:758px;margin:auto;}
+h1,h2,h3,h4,h5,h6,p{margin:0px; padding: 0px; font-weight:normal;}
+.musik { border-bottom-width: 1px; border-bottom-color: #e0e0e0; border-bottom-style: solid; padding-top: 5px; padding-bottom: 5px;
+padding-left: 10px; padding-right: 5px;
+display: block; }
+.musik a { background: #50a7e6; border: 1px solid #e0e0e0; padding: 1px 6px 1px 6px; text-align: center; color: #ffffff;}
+img {max-width:80%;}
+.frizkyfun {background: #fbfbfb; border-left: solid 1px #ccc; border-right: solid 1px #ccc; border-top: solid 1px #ccc; border-bottom: solid 1px #ccc; padding: 2px; margin-left: 1px; margin-right: 1px; }
+.frizkylist {background: #fbfbfb; border-left: solid 1px #ccc; border-right: solid 1px #ccc; border-bottom: solid 1px #ccc; padding: 1px; margin-left: 4px; margin-right: 4px; }
+#frizky li{display:inline-block;width:46%;margin:1px 1px 1px 1px;padding:1px}
